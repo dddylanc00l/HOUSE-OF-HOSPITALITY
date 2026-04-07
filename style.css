@@ -530,3 +530,22 @@ a {
     padding: 1.5rem;
   }
 }
+
+.centered-newsletter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.centered-newsletter > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.aanmelden-btn {
+  text-decoration: none;
+  display: inline-block;
+}
