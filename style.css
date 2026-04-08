@@ -349,3 +349,9 @@ video {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
+.flyer img{
+  margin: 0 auto;
+  border-radius: 20px;
+  max-width: 50%;
+}
