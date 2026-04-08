@@ -332,3 +332,20 @@ a {
   border-radius: 8px;
   object-fit: contain;
 }
+
+video {
+  width: 50%;
+  height: auto;
+  border-radius: 20px;
+}
+
+.img {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.video {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
