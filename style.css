@@ -359,3 +359,15 @@ video {
     color: rgba(244, 246, 239, 0.7);
   }
 }
+
+.event-detail-card a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.2s ease;
+}
+
+.event-detail-card a:hover {
+  opacity: 0.85;
+}
